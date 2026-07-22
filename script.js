@@ -46,7 +46,7 @@ window.addEventListener("resize", resizeCanvas);
 
 const stars = [];
 
-const STAR_COUNT = 180;
+const STAR_COUNT = 70;
 
 for(let i=0;i<STAR_COUNT;i++){
 
