@@ -161,7 +161,7 @@ border-radius:999px;
 
 background:rgba(15,15,15,.55);
 
-backdrop-filter:blur(22px);
+backdrop-filter:blur(8px);
 
 z-index:1000;
 
@@ -347,7 +347,7 @@ font-weight:700;
 
 transition:.35s;
 
-backdrop-filter:blur(18px);
+backdrop-filter:blur(12px);
 
 }
 
